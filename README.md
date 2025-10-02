@@ -12,4 +12,6 @@ Markdown formatua erabiliz, dokumentazioa argi eta erraz irakurtzeko moduan anto
 * **Datu-basea:** taulen diseinua eta kontsultak.
 * **Zerbitzuak:** APIen erabilera eta konfigurazioak.
 * **Sistemak:** instalazio eta mantenu prozedurak.
+*
 
+    <figure><img src="https://placehold.co/400x200" alt=""><figcaption></figcaption></figure>
