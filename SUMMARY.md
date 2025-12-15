@@ -14,3 +14,4 @@
   * [Instalazioa](sistemak/instalazioa.md)
   * [Mantenua](sistemak/mantenua.md)
   * [Monitorizazioa](sistemak/monitorizazioa.md)
+* [Hardware](hardware.md)
