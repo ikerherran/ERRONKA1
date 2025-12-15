@@ -15,3 +15,4 @@
   * [Mantenua](sistemak/mantenua.md)
   * [Monitorizazioa](sistemak/monitorizazioa.md)
 * [Hardware](hardware.md)
+* [Page 1](page-1.md)
